@@ -9,6 +9,12 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... LETSSS GOOOOOO
 
+<p align='center'>
+<a href="https://twitter.com/Siddhar85648309"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/siddharth1205/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/siddharth-shenoy-0bb981152/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthshenoy"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthshenoy&&langs_count=5" ></img>
