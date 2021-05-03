@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Siddharth Shenoy
-<br>
+_________________________________________________________________________________
 - 🔭 I’m currently working on ... 
   - Final year project
   - many small projects on the side
@@ -22,7 +22,7 @@
   - siddharthshenoy2@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... LETSSS GOOOOOO
-<br>
+__________________________________________________________________________________
 ### I am currently a Third Year Computer Science Student at PES University. 
 <p align='center'>
 <a href="https://twitter.com/Siddhar85648309"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -30,6 +30,5 @@
 <a href="https://www.linkedin.com/in/siddharth-shenoy-0bb981152/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthshenoy&count_private=true&show_icons=true&theme=dark"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthshenoy&&langs_count=5&theme=dark" ></img>
