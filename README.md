@@ -19,7 +19,7 @@ ________________________________________________________________________________
 - 👯 I’m looking to collaborate on: 
 - 🤔 I’m looking for help with:
 
-  - building dataset for a animal help care
+  - building dataset for animal help care
   
 - 💬 Ask me about: 
 
