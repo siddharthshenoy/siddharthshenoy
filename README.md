@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Siddharth Shenoy
-
+<br>
 - 🔭 I’m currently working on ... 
   - Final year project
   - many small projects on the side
@@ -22,6 +22,7 @@
   - siddharthshenoy2@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... LETSSS GOOOOOO
+<br>
 ### I am currently a Third Year Computer Science Student at PES University. 
 <p align='center'>
 <a href="https://twitter.com/Siddhar85648309"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
