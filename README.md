@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Siddharth Shenoy
+![](https://komarev.com/ghpvc/?username=siddharthshenoy&label=PROFILE+VIEWS)
 _________________________________________________________________________________
 - 🔭 I’m currently working on ... 
   - Final year project
