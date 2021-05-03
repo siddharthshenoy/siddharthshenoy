@@ -1,7 +1,12 @@
 <h1 align="center" >WELCOME TO MY PROFILE</h1>
+
 ### Hi there 👋 I am Siddharth Shenoy
+
 ![](https://komarev.com/ghpvc/?username=siddharthshenoy&label=PROFILE+VIEWS)
 _________________________________________________________________________________
+
+### I am currently a Third Year Computer Science Student at PES University. 
+
 - 🔭 I’m currently working on:
 
   - Final year project
@@ -38,7 +43,7 @@ ________________________________________________________________________________
 - ⚡ Fun fact: LETSSS GOOOOOO
 
 __________________________________________________________________________________
-### I am currently a Third Year Computer Science Student at PES University. 
+
 <p align='center'>
 <a href="https://twitter.com/Siddhar85648309"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/siddharth1205/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
