@@ -1,14 +1,15 @@
 ### Hi there 👋 I am Siddharth Shenoy
 ![](https://komarev.com/ghpvc/?username=siddharthshenoy&label=PROFILE+VIEWS)
 _________________________________________________________________________________
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on:
   - Final year project
   - many small projects on the side
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning: 
   - The concepts of applying Deep learning and Natural Language Processing
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... building dataset for a animal help care
-- 💬 Ask me about ... 
+- 👯 I’m looking to collaborate on: 
+- 🤔 I’m looking for help with:
+  - building dataset for a animal help care
+- 💬 Ask me about: 
   - HTML
   - CSS
   - javascript
@@ -19,10 +20,10 @@ ________________________________________________________________________________
   - PHP
   - SQL
   - MongoDB
-- 📫 How to reach me: ... 
+- 📫 How to reach me:
   - siddharthshenoy2@gmail.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... LETSSS GOOOOOO
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: LETSSS GOOOOOO
 __________________________________________________________________________________
 ### I am currently a Third Year Computer Science Student at PES University. 
 <p align='center'>
