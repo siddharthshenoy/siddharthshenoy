@@ -51,7 +51,7 @@ ________________________________________________________________________________
 <p align='center'>
 <a href="https://twitter.com/Siddhar85648309" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/twitter.png" alt="Siddhar85648309" height="30" width="30" /></a>
 <a href="https://www.instagram.com/siddharth1205" target="blank"><img align="center" src="https://img.icons8.com/fluent/32/000000/instagram-new.png" alt="SID" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/siddharth-shenoy-0bb981152/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/siddharth-shenoy-0bb981152/"><img align="center" src="https://img.icons8.com/fluent/32/000000/linkedin.png" height="30" width="30" ></a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthshenoy&count_private=true&show_icons=true&theme=dark"></img>
