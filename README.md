@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=siddharthshenoy&label=PROFILE+VIEWS)
 _________________________________________________________________________________
 
-## I am currently a Third Year Computer Science Student at PES University. 
+## I am currently a Fourth Year Computer Science Student at PES University. 
 
 - 🔭 I’m currently working on:
 
